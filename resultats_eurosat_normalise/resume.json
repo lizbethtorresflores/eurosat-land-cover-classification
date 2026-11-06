@@ -1,0 +1,29 @@
+{
+  "modele_retenu": "Forêt aléatoire",
+  "parametres": {
+    "Forêt aléatoire": {
+      "max_depth": null,
+      "min_samples_leaf": 1
+    }
+  },
+  "effectifs": {
+    "Apprentissage": 16995,
+    "Validation": 4144,
+    "Test": 5528
+  },
+  "minimum_global": 0,
+  "maximum_global": 28003,
+  "doublons_retires": 0,
+  "ambigus_retires": 0,
+  "variables_principales": [
+    "ecart_type_bande_1",
+    "ecart_type_bande_2",
+    "ecart_type_bande_8"
+  ],
+  "classe_difficile": "Highway",
+  "normalisation": {
+    "methode": "StandardScaler",
+    "ajustement_validation": "apprentissage uniquement",
+    "ajustement_final": "apprentissage + validation, sans le test"
+  }
+}

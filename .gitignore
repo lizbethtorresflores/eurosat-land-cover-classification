@@ -1,0 +1,18 @@
+# Données EuroSAT téléchargées
+/EuroSAT_MS/
+/EuroSAT_MS.zip
+
+# Environnements Python et fichiers temporaires
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+
+# Fichiers auxiliaires locaux
+/.normalisation/
+/.revisions/
+.DS_Store
+Thumbs.db

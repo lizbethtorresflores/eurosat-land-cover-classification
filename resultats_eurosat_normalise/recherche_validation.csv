@@ -1,0 +1,5 @@
+﻿Paramètres,F1 macro validation,Accuracy validation,Temps apprentissage (s)
+"{'max_depth': 20, 'min_samples_leaf': 1}",0.825786246089925,0.8392857142857143,7.8164001000113785
+"{'max_depth': 20, 'min_samples_leaf': 3}",0.82044695731579,0.8342181467181468,7.634658599970862
+"{'max_depth': None, 'min_samples_leaf': 1}",0.8278772065756848,0.8416988416988417,8.269571799959522
+"{'max_depth': None, 'min_samples_leaf': 3}",0.8226550166200651,0.8363899613899614,7.791414099978283
